@@ -1,0 +1,8 @@
+site_name: "xlsdkds"
+site_description: "sddjejff"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
